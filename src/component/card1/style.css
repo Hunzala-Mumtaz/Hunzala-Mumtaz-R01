@@ -1,0 +1,27 @@
+.card1{
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 48%;
+    padding: 15px;
+    float: left;
+
+}
+.blue{
+    color: blue;
+}
+.blue, h1, p{
+        margin-bottom: 8px;
+}
+.card2{
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 48%;
+    padding: 15px;
+    float: right;
+}
+.green{
+    color: green;
+}
+#clear{
+    clear: both;
+}
